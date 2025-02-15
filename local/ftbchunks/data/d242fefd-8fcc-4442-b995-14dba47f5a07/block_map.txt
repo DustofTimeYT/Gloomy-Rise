@@ -8,6 +8,7 @@
 #4A6CCF sophisticatedbackpacks:backpack
 #161AE7 minecraft:bamboo
 #713880 minecraft:bamboo_sapling
+#189B99 minecraft:barrel
 #18D108 minecraft:basalt
 #745C0D mekanism:basic_fluid_tank
 #840F59 minecraft:bedrock
@@ -70,6 +71,8 @@
 #468304 minecraft:crafting_table
 #DEE14B immersiveengineering:crate
 #E1491F graveyard:creeper_skeleton
+#182273 minecraft:crimson_nylium
+#3F201C minecraft:crimson_stem
 #14C49F ironchest:crystal_chest
 #3C3897 minecraft:cut_sandstone
 #1B74F2 farmersdelight:cutting_board
@@ -114,11 +117,15 @@
 #FC7434 biomesoplenty:flowering_oak_leaves
 #B6A16A cyclic:fluid_pipe
 #DD1808 mekanism:fluorite_ore
+#DA0ACF tconstruct:foundry_controller
 #5262A2 minecraft:frosted_ice
 #2DC94B minecraft:furnace
 #9698DB create:gabbro
+#1E33BF minecraft:gilded_blackstone
 #0A9178 chipped:glassblower
 #482EEB minecraft:glowstone
+#7E7945 productivebees:glowstone_nest
+#CBA849 quark:gold_bars
 #B76A76 minecraft:gold_ore
 #E1B1F8 biomesoplenty:goldenrod
 #060B35 minecraft:granite
@@ -146,6 +153,7 @@
 #F0EFBA quark:lavender_blossom_leaves
 #08AB91 graveyard:leaning_skeleton
 #9240B7 graveyard:leaning_wither_skeleton
+#750D6A minecraft:lectern
 #72D77D minecraft:lever
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
@@ -178,10 +186,14 @@
 #2F9D96 biomesoplenty:mud
 #3E6643 minecraft:mushroom_stem
 #B514D6 minecraft:mycelium
+#0EEC82 minecraft:nether_brick_stairs
+#939E0C minecraft:nether_bricks
 #5DD67D minecraft:nether_gold_ore
 #C3B6C0 mysticalagradditions:nether_inferium_ore
 #16D6A4 mysticalagradditions:nether_prosperity_ore
+#AB4E1B productivebees:nether_quartz_nest
 #6D0978 minecraft:nether_quartz_ore
+#6B6354 minecraft:nether_wart_block
 #454322 minecraft:netherrack
 #9182A4 quark:netherrack_speleothem
 #6B5D25 quark:oak_chest
@@ -218,8 +230,11 @@
 #27C02B quark:pink_blossom_leaves
 #36285C minecraft:pink_tulip
 #BB7F65 minecraft:podzol
+#B267E8 minecraft:polished_blackstone
+#FB03F5 minecraft:polished_blackstone_brick_slab
 #19F005 minecraft:polished_blackstone_brick_stairs
 #FC3FCF minecraft:polished_blackstone_bricks
+#76E237 minecraft:polished_blackstone_slab
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
 #B5B3AE minecraft:potted_white_tulip
@@ -240,6 +255,12 @@
 #9C3ECB minecraft:rose_bush
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
+#2562EE tconstruct:scorched_basin
+#F14597 tconstruct:scorched_bricks
+#4908AD tconstruct:scorched_drain
+#DA8C3D tconstruct:scorched_faucet
+#413675 tconstruct:scorched_fuel_gauge
+#22CA83 tconstruct:scorched_table
 #705189 minecraft:sea_lantern
 #1B4219 tconstruct:seared_basin
 #B74BCC tconstruct:seared_bricks
@@ -277,6 +298,7 @@
 #A6B33E minecraft:soul_soil
 #57EF52 mysticalagriculture:soulium_ore
 #AB8093 mysticalagriculture:soulstone
+#B818F3 mysticalagriculture:soulstone_cobble
 #6B495B minecraft:spawner
 #FAE367 minecraft:spruce_fence
 #13F5AC minecraft:spruce_leaves
@@ -336,6 +358,7 @@
 #555A88 create:weathered_limestone
 #B7775E minecraft:white_bed
 #1B60CF minecraft:white_tulip
+#DBA41E minecraft:white_wall_banner
 #BC20FE minecraft:white_wool
 #3A751B biomesoplenty:willow_leaves
 #D08D69 biomesoplenty:willow_vine

@@ -1207,6 +1207,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-15 15:10:11 +0300",
+      "minecraft:nether_wastes": "2025-02-15 15:10:31 +0300",
       "minecraft:warped_forest": "2025-02-09 21:39:47 +0300",
       "minecraft:basalt_deltas": "2025-02-09 20:11:40 +0300"
     },
@@ -3451,6 +3453,7 @@
       "minecraft:vindicator": "2025-02-14 20:13:18 +0300",
       "minecraft:magma_cube": "2025-02-09 21:39:10 +0300",
       "minecraft:spider": "2025-02-14 20:04:48 +0300",
+      "minecraft:creeper": "2025-02-15 12:36:39 +0300",
       "minecraft:evoker": "2025-02-14 20:16:03 +0300",
       "minecraft:witch": "2025-02-14 20:14:24 +0300",
       "minecraft:vex": "2025-02-14 20:16:27 +0300",
@@ -4385,6 +4388,12 @@
   "botania:recipes/botania/chiseled_red_quartz": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:44:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-15 14:25:32 +0300"
     },
     "done": true
   },
@@ -7998,6 +8007,15 @@
     },
     "done": true
   },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_basin": "2025-02-15 16:13:58 +0300",
+      "scorched_table": "2025-02-15 16:07:14 +0300",
+      "scorched_fuel_gauge": "2025-02-15 16:04:28 +0300",
+      "scorched_faucet": "2025-02-15 16:13:25 +0300"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/hepatizon_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:44:50 +0300"
@@ -10632,6 +10650,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-15 15:10:11 +0300"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:44:49 +0300"
@@ -11002,7 +11026,8 @@
     "criteria": {
       "broad_axe": "2025-02-09 19:34:32 +0300",
       "excavator": "2025-02-09 20:02:57 +0300",
-      "sledge_hammer": "2025-02-09 19:54:32 +0300"
+      "sledge_hammer": "2025-02-09 19:54:32 +0300",
+      "cleaver": "2025-02-15 15:00:18 +0300"
     },
     "done": false
   },
@@ -12830,6 +12855,7 @@
       "hammer_head": "2025-02-09 19:40:11 +0300",
       "small_axe_head": "2025-02-09 19:51:01 +0300",
       "tool_handle": "2025-02-09 19:51:24 +0300",
+      "broad_blade": "2025-02-15 14:30:05 +0300",
       "pickaxe_head": "2025-02-09 19:50:56 +0300",
       "ingot": "2025-02-09 19:06:11 +0300"
     },
@@ -15843,15 +15869,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-02-14 20:12:52 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-14 20:00:43 +0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-14 20:12:52 +0300"
     },
     "done": true
   },
@@ -16076,6 +16102,13 @@
       "has_the_recipe": "2025-02-09 16:44:52 +0300"
     },
     "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "luck": "2025-02-15 15:12:40 +0300",
+      "gilded": "2025-02-15 16:26:05 +0300"
+    },
+    "done": false
   },
   "botania:recipes/botania/conversions/elementium_block_deconstruct": {
     "criteria": {
@@ -18359,7 +18392,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2025-02-15 16:26:05 +0300",
+      "manyullyn": "2025-02-15 16:26:05 +0300",
       "wood": "2025-02-09 17:56:09 +0300",
+      "slimesteel": "2025-02-15 15:00:18 +0300",
       "stone": "2025-02-09 17:56:09 +0300",
       "iron": "2025-02-09 19:54:32 +0300"
     },
@@ -18380,6 +18416,12 @@
   "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:44:48 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/structure": {
+    "criteria": {
+      "open_foundry": "2025-02-15 16:06:27 +0300"
     },
     "done": true
   },
@@ -18830,6 +18872,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:44:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-15 16:31:06 +0300"
     },
     "done": true
   },
@@ -21642,6 +21690,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-09 21:00:53 +0300",
+      "cooked_beef": "2025-02-15 15:06:44 +0300",
       "apple": "2025-02-09 17:18:18 +0300",
       "pumpkin_pie": "2025-02-09 18:08:23 +0300",
       "bread": "2025-02-09 19:37:30 +0300",

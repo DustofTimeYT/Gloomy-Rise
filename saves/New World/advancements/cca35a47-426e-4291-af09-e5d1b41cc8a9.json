@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-02-15 15:58:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:03 +0300"
@@ -1995,6 +2001,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_table": "2025-02-15 16:19:27 +0300"
+    },
+    "done": false
+  },
   "botania:recipes/botania/mushroom_12": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
@@ -2391,6 +2403,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-02-15 16:25:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:02 +0300"
@@ -2502,6 +2520,12 @@
   "draconicevolution:recipes/draconicevolution.modules/modules/wyvern_jump": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-15 15:11:22 +0300"
     },
     "done": true
   },
@@ -2973,6 +2997,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-15 14:39:15 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_button": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:04 +0300"
@@ -3396,6 +3426,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-14 19:21:07 +0300",
+      "minecraft:blaze": "2025-02-15 15:09:45 +0300",
       "minecraft:skeleton": "2025-02-09 17:02:02 +0300",
       "minecraft:ravager": "2025-02-14 20:13:02 +0300",
       "minecraft:guardian": "2025-02-14 20:48:54 +0300",
@@ -5297,6 +5328,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2025-02-15 15:32:03 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:05 +0300"
@@ -6135,7 +6172,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-09 16:49:47 +0300",
-      "opened_chest": "2025-02-09 16:47:42 +0300"
+      "opened_chest": "2025-02-09 16:47:42 +0300",
+      "opened_cart": "2025-02-15 14:39:15 +0300"
     },
     "done": false
   },
@@ -6280,6 +6318,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:04 +0300"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 15:56:02 +0300"
     },
     "done": true
   },
@@ -8074,6 +8118,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_steel_chest_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-15 15:55:21 +0300"
     },
     "done": true
   },
@@ -10930,7 +10980,8 @@
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "excavator": "2025-02-09 20:03:03 +0300",
-      "sledge_hammer": "2025-02-09 20:05:22 +0300"
+      "sledge_hammer": "2025-02-09 20:05:22 +0300",
+      "cleaver": "2025-02-15 15:00:28 +0300"
     },
     "done": false
   },
@@ -11888,6 +11939,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-15 15:32:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
@@ -12470,6 +12527,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-02-15 15:02:36 +0300"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/slabs/sky_stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:05 +0300"
@@ -12703,6 +12766,16 @@
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "tool_binding": "2025-02-15 16:26:21 +0300",
+      "repair_kit": "2025-02-15 16:27:49 +0300",
+      "tool_handle": "2025-02-15 16:27:10 +0300",
+      "pickaxe_head": "2025-02-15 16:25:06 +0300",
+      "ingot": "2025-02-15 16:27:53 +0300"
+    },
+    "done": false
   },
   "botania:recipes/botania/elementium_block": {
     "criteria": {
@@ -14711,7 +14784,8 @@
   },
   "tconstruct:tools/tool_smith": {
     "criteria": {
-      "sword": "2025-02-09 18:36:10 +0300"
+      "sword": "2025-02-09 18:36:10 +0300",
+      "pickaxe": "2025-02-15 15:36:52 +0300"
     },
     "done": false
   },
@@ -15705,15 +15779,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-02-14 20:12:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-14 19:48:33 +0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-14 20:12:51 +0300"
     },
     "done": true
   },
@@ -15792,6 +15866,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:05 +0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-02-15 15:56:02 +0300"
     },
     "done": true
   },
@@ -15897,6 +15977,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-02-15 15:58:57 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/cake/sky": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
@@ -15938,6 +16024,13 @@
       "has_the_recipe": "2025-02-09 16:47:07 +0300"
     },
     "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "luck": "2025-02-15 16:29:34 +0300",
+      "gilded": "2025-02-15 15:36:51 +0300"
+    },
+    "done": false
   },
   "botania:recipes/botania/conversions/elementium_block_deconstruct": {
     "criteria": {
@@ -16758,6 +16851,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:06 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-15 15:32:03 +0300"
     },
     "done": true
   },
@@ -18239,7 +18338,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2025-02-15 15:36:52 +0300",
+      "manyullyn": "2025-02-15 15:36:52 +0300",
       "wood": "2025-02-09 18:36:10 +0300",
+      "slimesteel": "2025-02-15 15:00:28 +0300",
       "stone": "2025-02-09 18:36:10 +0300",
       "iron": "2025-02-09 20:05:22 +0300"
     },
@@ -18260,6 +18362,12 @@
   "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:03 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/structure": {
+    "criteria": {
+      "open_foundry": "2025-02-15 16:19:14 +0300"
     },
     "done": true
   },
@@ -18704,6 +18812,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-15 15:07:14 +0300"
     },
     "done": true
   },
@@ -21519,6 +21633,7 @@
     "criteria": {
       "apple": "2025-02-09 16:52:59 +0300",
       "potato": "2025-02-14 21:35:47 +0300",
+      "cooked_cod": "2025-02-15 16:35:52 +0300",
       "bread": "2025-02-09 17:13:04 +0300",
       "golden_apple": "2025-02-09 17:02:56 +0300",
       "suspicious_stew": "2025-02-14 20:53:12 +0300",
@@ -22233,6 +22348,12 @@
   "biomesoplenty:recipes/redstone/palm_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-02-09 16:47:05 +0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-02-15 15:56:02 +0300"
     },
     "done": true
   },
