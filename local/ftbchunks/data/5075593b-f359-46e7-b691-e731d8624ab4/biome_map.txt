@@ -1,0 +1,8 @@
+#556 minecraft:beach
+#3DE minecraft:deep_ocean
+#112 biomesoplenty:dense_woodland
+#79A minecraft:lukewarm_ocean
+#20D biomesoplenty:marsh
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#7F2 biomesoplenty:woodland

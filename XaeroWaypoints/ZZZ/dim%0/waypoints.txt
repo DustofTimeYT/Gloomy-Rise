@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:bjkshfbvilfdkjnup;bogfdnbs;:B:4561:30:2956:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:gdsdkhjsdfbvgynfdbuvm:G:4735:9:2983:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Red and purple crystals:R:4962:25:2656:12:true:0:gui.xaero_default:false:0:0:false
+waypoint:dsgdfhfgjgh:D:1182:63:1693:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ender Castle:E:1691:31:226:6:true:0:gui.xaero_default:false:0:0:false
+waypoint:Home:H:1683:57:182:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Vilage:V:337:68:-458:11:true:0:gui.xaero_default:false:0:0:false

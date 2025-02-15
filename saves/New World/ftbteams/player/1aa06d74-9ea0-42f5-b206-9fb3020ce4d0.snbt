@@ -1,0 +1,18 @@
+{
+	id: "1aa06d74-9ea0-42f5-b206-9fb3020ce4d0"
+	type: "player"
+	player_name: "DustofTimeTY"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "DustofTimeTY"
+		"ftbteams:color": "#596EFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

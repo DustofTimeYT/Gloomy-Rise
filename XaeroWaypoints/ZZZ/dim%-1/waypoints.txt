@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint:D:-412:48:102:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:Blaze Spawn:B:360:78:659:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hell Castle:H:419:76:626:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal:P:205:50:19:5:false:0:gui.xaero_default:false:0:0:false

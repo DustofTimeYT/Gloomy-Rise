@@ -1,0 +1,25 @@
+{
+	id: "94465dd2-0e97-4330-bac8-7041a8b5978d"
+	type: "party"
+	owner: "cca35a47-426e-4291-af09-e5d1b41cc8a9"
+	ranks: {
+		cca35a47-426e-4291-af09-e5d1b41cc8a9: "owner"
+		1aa06d74-9ea0-42f5-b206-9fb3020ce4d0: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "ZZZ"
+		"ftbteams:color": "#59FF7F"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739111580802L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Demelordon\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "cca35a47-426e-4291-af09-e5d1b41cc8a9", date: 1739111580813L, text: "{\"color\":\"green\",\"text\":\"Invited DustofTimeTY\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739111584485L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"DustofTimeTY\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
